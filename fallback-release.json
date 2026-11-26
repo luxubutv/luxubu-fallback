@@ -1,1 +1,9 @@
-{}
+{
+  "versionCode": 5,
+  "versionName": "1.0.4-test",
+  "apkUrl": "https://pub-a953f0069dc34fe487b40c40ca2bf190.r2.dev/LuXuBu-TV-1.0.3-code4-tiered-activation.apk",
+  "sha256": "8f4b56316c48aacb7bb4f1dc5450084656df178ca987cfa565e1241ff59fe99e",
+  "issuedAt": 1795680207,
+  "releaseNotes": "Cập nhật khẩn cấp LuXuBu TV 1.0.4-test",
+  "signature": "MEUCIQDY6JqZVdeXxVYcckD9YrhEC8zdSRmZ8iwZGG9khCSfVgIgGK/U+3gBubszSLm3V0oQVOY5u1tFBjsELxPjJ8gD0o4="
+}
